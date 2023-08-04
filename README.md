@@ -17,7 +17,7 @@ Activity Reminder is an app that reminds you to take a break from sitting and do
 
 ## Installation
 
-To install the app, download the app file from the [Releases](https://github.com/jaketzu/ActivityReminder/releases) tab and run it on your device or in an emulator.
+To install the app, download the correct .apk file for your device from the latest [Release](https://github.com/jaketzu/ActivityReminder/releases), and run it on the device. If you're unsure which file to download for your system, you can download the ActivityReminder-v-.-.--universal.apk file, which takes more space but should work on each Android device above Android version 10.
 
 You can clone the repository and run the app with `npm start`. If you don't have React Native set up on your device you can use [this guide](https://reactnative.dev/docs/environment-setup?guide=native).
 
@@ -41,5 +41,5 @@ Using the [Notifee](https://github.com/invertase/notifee) library and [AsyncStor
 
 **Jaakko Nevala**
 
-[<img alt="linked-in" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jaakko.nevala007@gmail.com/)
+[<img alt="linked-in" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jaakko.nevala007@gmail.com)
 [<img alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaakko-nevala/)
